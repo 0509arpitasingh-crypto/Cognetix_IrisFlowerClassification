@@ -62,13 +62,6 @@ iris-flower-classification/
 
 The trained model successfully classifies iris flowers into their respective species based on the provided measurements. The project demonstrates how machine learning can be used to solve multiclass classification problems with high accuracy.
 
-## 🌱 Future Improvements
-
-* Compare multiple classification algorithms.
-* Perform hyperparameter tuning.
-* Deploy the model using Streamlit or Flask.
-* Build a simple web application for real-time predictions.
-
 ---
 
 *This project was completed as part of a Machine Learning internship to strengthen my understanding of data preprocessing, classification algorithms, and the end-to-end machine learning workflow.*
