@@ -43,6 +43,21 @@ iris-flower-classification/
 6. Evaluate model performance.
 7. Predict the species of new iris flower samples.
 
+## 📊 Output
+
+### Heatmap
+
+![Heatmap](Images/Heatmap.png)
+
+### Model Evaluation
+
+![Model Evaluation](Images/Model_Evaluation.png)
+
+### Pair Plot
+
+![Pair Plot](Images/Pair_Plot.png)
+
+
 ## 📈 Results
 
 The trained model successfully classifies iris flowers into their respective species based on the provided measurements. The project demonstrates how machine learning can be used to solve multiclass classification problems with high accuracy.
