@@ -22,17 +22,6 @@ The project demonstrates the complete machine learning workflow, starting from d
 * Scikit-learn
 * Jupyter Notebook
 
-## 📂 Project Structure
-
-```text
-iris-flower-classification/
-│
-├── data/
-├── task2_iris_classification.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ## 📊 Workflow
 
 1. Import the Iris dataset.
