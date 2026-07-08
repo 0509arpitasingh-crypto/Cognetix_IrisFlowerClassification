@@ -45,17 +45,17 @@ iris-flower-classification/
 
 ## 📊 Output
 
-### Heatmap
+### Pair Plot
 
-![Heatmap](Images/Heatmap.png)
+![Pair Plot](Images/Pair_Plot.png)
 
 ### Model Evaluation
 
 ![Model Evaluation](Images/Model_Evaluation.png)
 
-### Pair Plot
+### Heatmap
 
-![Pair Plot](Images/Pair_Plot.png)
+![Heatmap](Images/Heatmap.png)
 
 
 ## 📈 Results
